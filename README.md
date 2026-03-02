@@ -21,6 +21,36 @@ O conversor calcula o valor entre moedas baseadas nas seleções feitas pelo usu
 
 ---
 
+## 🚀 Demonstração
+
+📍 Se você tiver o site hospedado (ex: GitHub Pages, Vercel ou Netlify), coloque aqui o link:
+
+👉 https://github.com/motathialison1912-spec/PROJETO-MOEDA
+
+*Caso ainda não esteja publicado, este README te ajuda a rodar o projeto localmente.*
+
+"<img width="887" height="564" alt="Moeda" src="https://github.com/user-attachments/assets/498e8eed-d26a-4fab-9ec1-940fabb26258" />
+
+
+
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html"/> 
+- <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>  
+- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/>
+
+---
+
+
+
+
+
+
 ## 🛠️ Tecnologias e Ferramentas
 
 Este projeto foi construído com as seguintes tecnologias:
@@ -56,10 +86,14 @@ PROJETO-MOEDA/
 
 👨‍💻 Sobre o Autor
 
+
 Desenvolvedor Front-End em início de carreira, apaixonado por criar interfaces intuitivas e funcionais.
+
 
 📍 Localização: Escada, PE – Brasil
 GitHub: https://github.com/motathialison1912-spec/
+
+
 
 ✨ Obrigado por visitar o projeto! 🚀
 
